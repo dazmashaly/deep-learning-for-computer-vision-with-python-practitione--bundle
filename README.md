@@ -1,4 +1,4 @@
-Adrian Rosebrock - Deep Learning for Computer Vision with Python practioner Bundle(2017, PyImageSearch)
+Adrian Rosebrock - Deep Learning for Computer Vision with Python practitione Bundle(2017, PyImageSearch)
 **pdf version attached**
 https://www.mediafire.com/file/mga6l0rqq1tjg69/Adrian_Rosebrock_-_Deep_Learning_for_Computer_Vision_with_Python_practitione_Bundle%25282017%252C_PyImageSearch%2529.pdf/file
 
